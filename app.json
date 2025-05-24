@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Controle-de-Gastos",
-    "slug": "Controle-de-Gastos",
+    "name": "controle_gastos",
+    "slug": "controle_gastos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
